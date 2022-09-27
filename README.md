@@ -2,6 +2,8 @@
 
 ![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)
 
+Live Solution: [Room-Homepage](https://aniru-dh21.github.io/Room-Homepage/).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
